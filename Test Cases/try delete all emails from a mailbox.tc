@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>try delete all emails from a mailbox</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6a08016-a776-4408-be9e-9ca634ef59a3</testCaseGuid>
+</TestCaseEntity>

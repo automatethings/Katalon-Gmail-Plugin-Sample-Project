@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>try to count number of emails in an emailbox</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be233cb6-68f6-4394-b656-3bf0ede21c9c</testCaseGuid>
+</TestCaseEntity>
